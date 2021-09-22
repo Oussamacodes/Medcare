@@ -861,9 +861,10 @@ footer .credit p span{
         width: 370px;
     }
 }
-@media (max-width:450px)) {
+@media (max-width:450px) {
     body{
         display: none;
     }
+}
 
 /* Media Query End */
